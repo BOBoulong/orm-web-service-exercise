@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "First Article",
+    "contents": "This is the content of the first article.",
+    "created_by": "user1",
+    "is_published": true,
+    "created_at": "2023-01-01T00:00:00Z",
+    "updated_at": "2023-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Second Article",
+    "contents": "This is the content of the second article.",
+    "created_by": "user2",
+    "is_published": false,
+    "created_at": "2023-01-02T00:00:00Z",
+    "updated_at": "2023-01-02T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Third Article",
+    "contents": "This is the content of the third article.",
+    "created_by": "user3",
+    "is_published": true,
+    "created_at": "2023-01-03T00:00:00Z",
+    "updated_at": "2023-01-03T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Fourth Article",
+    "contents": "This is the content of the fourth article.",
+    "created_by": "user4",
+    "is_published": true,
+    "created_at": "2023-01-04T00:00:00Z",
+    "updated_at": "2023-01-04T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Fifth Article",
+    "contents": "This is the content of the fifth article.",
+    "created_by": "user5",
+    "is_published": false,
+    "created_at": "2023-01-05T00:00:00Z",
+    "updated_at": "2023-01-05T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Sixth Article",
+    "contents": "This is the content of the sixth article.",
+    "created_by": "user6",
+    "is_published": true,
+    "created_at": "2023-01-06T00:00:00Z",
+    "updated_at": "2023-01-06T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Seventh Article",
+    "contents": "This is the content of the seventh article.",
+    "created_by": "user7",
+    "is_published": false,
+    "created_at": "2023-01-07T00:00:00Z",
+    "updated_at": "2023-01-07T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Eighth Article",
+    "contents": "This is the content of the eighth article.",
+    "created_by": "user8",
+    "is_published": true,
+    "created_at": "2023-01-08T00:00:00Z",
+    "updated_at": "2023-01-08T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Ninth Article",
+    "contents": "This is the content of the ninth article.",
+    "created_by": "user9",
+    "is_published": false,
+    "created_at": "2023-01-09T00:00:00Z",
+    "updated_at": "2023-01-09T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Tenth Article",
+    "contents": "This is the content of the tenth article.",
+    "created_by": "user10",
+    "is_published": true,
+    "created_at": "2023-01-10T00:00:00Z",
+    "updated_at": "2023-01-10T00:00:00Z"
+  }
+]
